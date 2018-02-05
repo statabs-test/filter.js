@@ -1,6 +1,6 @@
 {
-  "name": "statabs-filter.js",
-  "version": "2.1.0",
+  "name": "@statabs/statabs-filter",
+  "version": "2.1.1",
   "description": "A javascript library for filtering json object and rendering html",
   "homepage": "https://github.com/statabs-test/filter.js",
   "licenses": [
@@ -14,13 +14,10 @@
     "json",
     "jquery"
   ],
-  "author": {
-    "name": "Jiren Patel",
-    "email": "jirenpatel@gmail.com"
-  },
+  "author": "Jiren Patel <jirenpatel@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/statabs-test/filter.js.git"
+    "url": "git+https://github.com/statabs-test/filter.js.git"
   },
   "bugs": {
     "url": "https://github.com/statabs-test/filter.js/issues"
